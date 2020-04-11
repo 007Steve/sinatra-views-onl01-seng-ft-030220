@@ -64,7 +64,7 @@ We can create as many routes and views as we want. Let's create a route called "
 	  erb :index
 	end
 	
-	get "/info" do
+	get "/info" dosh
 	  "Testing the info page"
 	end
 ```
